@@ -39,3 +39,80 @@ h2,h3,h4,h5,h6{/*Sub-Título*/
 	margin:auto;
 	
 }
+
+a{color:#E3AE57}
+
+.redes-sociais li{display: inline-block; margin: 0 5px;}
+
+.redes-sociais li a{display: inline-block;}
+
+.redes-sociais li span{ width: 48px; height: 48px;
+	background-repeat: no-repeat; overflow: hidden;
+	text-indent: 7000px; display: inline-block;}
+
+	
+	.linkedin{background-image: url('../img/linkedin.png');
+	-webkit-filter: grayscale(100%); filter: grayscale(100%);}	
+	.linkedin:hover{-webkit-filter:grayscale(0%); filter:grayscale(0%);}	
+	
+	
+	.github{background-image: url('../img/github.png');
+	-webkit-filter: grayscale(100%); filter: grayscale(100%);}	
+	.github:hover{-webkit-filter:grayscale(0%); filter:grayscale(0%);}
+	
+	
+	.facebook{background-image: url('../img/facebook.png');
+	-webkit-filter: grayscale(100%); filter: grayscale(100%);}	
+	.facebook:hover{-webkit-filter:grayscale(0%); filter:grayscale(0%);}
+	
+	
+	.devcard{background-image: url('../img/devcard.png');
+	-webkit-filter: grayscale(100%); filter: grayscale(100%);}	
+	.devcard:hover{-webkit-filter:grayscale(0%); filter:grayscale(0%);}
+	
+	
+	
+	
+	.projetos{width: 700px; margin: 0 auto; text-align: left}	
+	
+	.projetos li{margin-bottom: 7px; margin-top: 7px;
+	padding-left: 24px background-image: url
+	('../img/projetos.png');background-repeat: no-repeat}
+	
+	.projetos li:hover{color: #e35757}
+	
+	a:hover{color: #e35757}
+	
+	
+	.competencias ul {widh:700px; margin:0 auto}
+	.competencias li {display: inline-block; width: 150px;
+	padding: 8px; margin: 3px;}
+	
+	.dev{background-color: #16a085; border: 2px solid #16a085}
+	.dev:hover{background-color: #1abc9c}
+	
+	.engine{background-color: #27ae60; border: 2px solid #27ae60}	
+	.engine:hover{background-color : #28cc21}
+
+	.design{background-color: #2980b9; border: 2px solid #2980b9}	
+	.design:hover{background-color : #3498db}
+	
+	.audio{background-color: #c0392b; border: 2px solid #c0392b}	
+	.audio:hover{background-color : #e74c3c}
+	
+	.banco{background-color: #8e44ad; border: 2px solid #8e44ad}	
+	.banco:hover{background-color : #9b59b6}
+	
+	.tresD{background-color: #2c3e50; border: 2px solid #2c3e50}	
+	.tresD:hover{background-color : #34495e}
+	
+	
+	footer{ margin-top: 50px; padding-top: 20px;
+	padding-bottom: 50px; background-color: #DC3D24;
+	text-shadow: 0.5px 1.5px #232828; position:fixed;
+	bottom:8px; width: 960px;}
+
+
+
+
+
